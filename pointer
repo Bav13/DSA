@@ -1,0 +1,20 @@
+Float x;
+Int a;
+
+void *p
+Int *T
+
+P = &a
+
+*p = 7;
+*(int*)p =7;
+p=&x;
+
+*(float *)p=3.7f;
+(float *)=&x;
+
+Pointer to Array
+Int a[5]= {1,2,3,4,5};
+Int *p=a;
+7/2
+Q1static array in c language for dsa
